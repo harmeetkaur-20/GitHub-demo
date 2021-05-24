@@ -1,1 +1,1 @@
-This file includes TestCases.
+This file includes TestCases of login button only.
